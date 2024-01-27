@@ -6,6 +6,12 @@
 
 This project is related to section 6 of Jonas's React course, focusing on working with the state, events and forms. Additionally, it include one exciting extra game mode. This is an application where you can list the items needed for a trip and checkmark them. seriously, it's practically a trip-planning wizard🪄.
 
+# Installation Process
+
+1. Open the terminal and type command "npm i" or "npm install" ( Make sure to have Node.js(TLS) installed before type commands )
+2. After that, type command "npm start"
+3. Enjoy it...😃
+
 # Detail
   
 - 👨🏻‍💻 Developed by : Ali Saadat
