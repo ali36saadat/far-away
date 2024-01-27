@@ -9,7 +9,7 @@ This project is related to section 6 of Jonas's React course, focusing on workin
 # Installation Process
 
 1. Open the terminal and type command "npm i" or "npm install" ( Make sure to have Node.js(TLS) installed before type commands )
-2. After that, type command "npm start"
+2. After that, type command "npm start" (http://localhost:3000/far-away)
 3. Enjoy it...😃
 
 # Detail
