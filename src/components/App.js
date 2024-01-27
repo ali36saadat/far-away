@@ -1,5 +1,5 @@
 import { useState } from "react"
-import Stats from "./Stats"
+import Stats from "./States"
 import PackingList from "./PackingList"
 import Form from "./Form"
 import Logo from "./Logo"
